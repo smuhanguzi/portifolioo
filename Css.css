@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-items: end;
+}
+head{
+display: flex;
+display-direction: row-reverse;
+justify-items: start;
+padding-left: 0%;
+}
+.john{
+    display: flex;
+    flex-direction: row;
+    justify-items: space-between;
+}
