@@ -20,9 +20,6 @@ header{
     grid-template-columns: repeat(2, 1fr);
     padding-left: 260px;
     margin-top: 100px;
-    background-color: gray;
-    padding-top: 30px;
-    padding-bottom: 20px;
 }
 .image img{
     justify-self: end;
@@ -47,6 +44,7 @@ padding-left: 0%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #8F9EA5;
 }
 .work{
     display: flex;
